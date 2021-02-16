@@ -1,5 +1,5 @@
 # Covid19 Vaka Sayısı
-Php ile Türkiye Orjinal koronavirüs vaka tablosu
+Php ile Türkiye Orijinal koronavirüs vaka tablosu
 
 
 ![](https://i.hizliresim.com/DbUaPR.png)
